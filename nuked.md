@@ -35,7 +35,22 @@ https://academy.cgboost.com/p/blender-2-8-launch-pad
 https://learn.unrealengine.com/course/3750189
 
 ***
-For everyone using BeepBox or looking for a nice music making tool, I have a gift for you! :santa: :gift:  https://youtu.be/LAf2w3HJVI0
+For everyone using BeepBox or looking for a nice musicmaking tool, I have a gift for you! :santa: :gift:  https://youtu.be/LAf2w3HJVI0
 
 ***
 https://www.resource.express/
+
+***
+I've been working on an add on for Godot, primarily to make things easier on myself, but I'm curious if anyone else would be interested in it.  It is a database manager system where you can create tables of data that can be used in your game, directly in Godot instead of Google sheets. It is not yet complete, but it works.
+
+@DIO It is on GitHub.  There is no documentation and it is still buggy, but you are welcome to download the project files.  https://github.com/AwesomeUnicorn3/DBManager.git
+
+@DIO All of the tables are imported as dictionaries.  You will need to set the "DBManager" script as autoload for it to work.
+
+There is a table named "Table Data", in it you will let the system know if it will be part of the Dynamic database(the dictionary that will create the save file) or Static (Data that does not change) and what the reference name will be. These two dictionaries contain dictionaries as keys for each table.
+
+ For exaple, If you want to reference a dynamic variable in your game code it would be DBManager.Dynamic_Game_Dict["Table Name"]["key Name]["Value Name"]
+
+Does that make sense?
+
+[reason: addon is nascent, author will re-post when ready]
