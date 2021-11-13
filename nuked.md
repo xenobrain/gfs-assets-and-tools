@@ -65,3 +65,12 @@ Rez
  — 
 11/06/2021
 Mixamo doesn't animate the models, it's just a library of premade rigged meshes and animations. If you know your way around rigging and actually want to do your own animations, there's creature 3D that's  currently free while in alpha, Cascadeur free as long as you're earning less than 100k a year and Blender, covers the free ones. For paid you have the typical maya, 3dsmax, Cinema4D, Lightwave, Houdini and Akeytsu (which is a stand alone 3D animation suite that existed before Cascadeur came about). Otherwise you're either paying someone else to make the animations you want or continue to use Mixamo as a resource.
+
+***
+Roasiac
+ — 
+03/17/2021
+Would you like to learn making your own games? That starts with learning to code and to do that we need to learn about variables!
+https://www.youtube.com/watch?v=5EHk9rGgtiM
+https://www.tiktok.com/@codebeasttuts/video/6940740415939300613
+[note: video links dead]
