@@ -12,3 +12,5 @@ Platformer Math Cheatsheet <https://medium.com/@brazmogu/physics-for-game-dev-a-
 Understanding the view matrix <https://www.3dgep.com/understanding-the-view-matrix/>
 
 Engine and software coordinatge quick reference <https://discord.com/channels/696089433665044522/717090932683571291/775226197692776489>
+
+Visualizing Quaternions <https://eater.net/quaternions>
