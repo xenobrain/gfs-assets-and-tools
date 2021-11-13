@@ -54,3 +54,14 @@ There is a table named "Table Data", in it you will let the system know if it wi
 Does that make sense?
 
 [reason: addon is nascent, author will re-post when ready]
+
+***
+Machow8
+ — 
+11/06/2021
+does someone know about a good alternative to asset forge when we talk about easy modeling 3d models? i'm testing paint3d, it seems interesting, but i'm seeing for other options
+other questions: beyond mixamo, are there (mainly free, but paid options will be accepted too) programs that animate 3d models too?
+Rez
+ — 
+11/06/2021
+Mixamo doesn't animate the models, it's just a library of premade rigged meshes and animations. If you know your way around rigging and actually want to do your own animations, there's creature 3D that's  currently free while in alpha, Cascadeur free as long as you're earning less than 100k a year and Blender, covers the free ones. For paid you have the typical maya, 3dsmax, Cinema4D, Lightwave, Houdini and Akeytsu (which is a stand alone 3D animation suite that existed before Cascadeur came about). Otherwise you're either paying someone else to make the animations you want or continue to use Mixamo as a resource.
