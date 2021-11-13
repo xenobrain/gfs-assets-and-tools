@@ -12,6 +12,10 @@ Lowpoly Animals <https://www.patreon.com/posts/53427821>
 SpriteCatalog <https://www.spritecatalog.com/>
 Decals <https://gumroad.com/l/vsutI>
 Mini Kit: Neo City <https://kitbash3d.com/collections/kits/products/mini-kit-neo-city>
+Quaternius- Patreon creating many Free/CC0 3D models and kits <https://www.patreon.com/quaternius>
+
+[Textures and Materials]
+CC0/Public Domain PBR Materials <https://ambientcg.com/>
 
 [Fonts]
 <https://fontstruct.com/gallery>
