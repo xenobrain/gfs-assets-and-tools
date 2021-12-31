@@ -74,3 +74,8 @@ Would you like to learn making your own games? That starts with learning to code
 https://www.youtube.com/watch?v=5EHk9rGgtiM
 https://www.tiktok.com/@codebeasttuts/video/6940740415939300613
 [note: video links dead]
+
+
+***
+https://github.com/Revadike/epicgames-freebies-claimer
+Reason: might be interesting to some but borderline relevant/useful for the channel
