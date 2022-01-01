@@ -13,12 +13,14 @@ SpriteCatalog <https://www.spritecatalog.com/>
 Decals <https://gumroad.com/l/vsutI>
 Mini Kit: Neo City <https://kitbash3d.com/collections/kits/products/mini-kit-neo-city>
 Quaternius- Patreon creating many Free/CC0 3D models and kits <https://www.patreon.com/quaternius>
+GGBot CC0 works <https://opengameart.org/users/ggbot>
 
 [Textures and Materials]
 CC0/Public Domain PBR Materials <https://ambientcg.com/>
 
 [Fonts]
 <https://fontstruct.com/gallery>
+GGBot Pixeloid Font <https://ggbot.itch.io/pixeloid-font>
 
 [Tools]
 Effekseer particle editor and multi-engine runtime <https://effekseer.github.io/>
