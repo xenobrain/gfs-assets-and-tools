@@ -35,6 +35,7 @@ Noice Generation Tool and Library <https://github.com/Auburn/FastNoise>
 Game Development with SDL2 <https://m.youtube.com/watch?v=MeMPCSqQ-34>
 Curated list of single-file libs <https://github.com/nothings/single_file_libs>
 NanoVG <https://github.com/memononen/nanovg>
+Cute Headers - Graphics, Math and Sound single headers libraries <https://github.com/RandyGaul/cute_headers>
 
 [Assembly Tutorials]
 Zen of Assembly I <https://github.com/jagregory/abrash-zen-of-asm>
