@@ -5,8 +5,10 @@ __**Programming**__
 Game Programming Patterns <https://gameprogrammingpatterns.com/contents.html>
 Crafting Interpreters <http://www.craftinginterpreters.com/contents.html>
 Red Blob Games Algorithm Tutorials <https://www.redblobgames.com/>
+Algorithm Examples in multiple languages <http://algorithmexamples.com/>
 Data Structures and Algorithms <https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf>
 Don't Starve that GPU, GDC 1999 <https://www.youtube.com/watch?v=9iz2kWZyU3M>
+
 
 [Networking]
 Game Networking Resources <https://github.com/MFatihMAR/Game-Networking-Resources>
