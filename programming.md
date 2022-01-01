@@ -9,6 +9,9 @@ Algorithm Examples in multiple languages <http://algorithmexamples.com/>
 Data Structures and Algorithms <https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf>
 Don't Starve that GPU, GDC 1999 <https://www.youtube.com/watch?v=9iz2kWZyU3M>
 
+Easing Functions <https://easings.net/> <http://robertpenner.com/easing/>
+Fast and Funky 1D Nonlinear Transforms <https://www.youtube.com/watch?v=mr5xkf6zSzk>
+
 
 [Networking]
 Game Networking Resources <https://github.com/MFatihMAR/Game-Networking-Resources>
