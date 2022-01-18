@@ -79,3 +79,8 @@ https://www.tiktok.com/@codebeasttuts/video/6940740415939300613
 ***
 https://github.com/Revadike/epicgames-freebies-claimer
 Reason: might be interesting to some but borderline relevant/useful for the channel
+
+
+***
+I suppose it depends on the style of the game / what’s easier for the gameplay. I know OneyWareGames switched over from 2D to 3D through development because it was easier on them to work with it: https://mobile.twitter.com/andoowhy/status/1116849868952281088?cxt=HHwWgIC9pbvC7P8eAAAA
+Reason: Response to question.  interesting, but not a resource
