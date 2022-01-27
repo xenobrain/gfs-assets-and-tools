@@ -32,6 +32,9 @@ A #Clayxel like https://assetstore.unity.com/packages/tools/particles-effects/mu
 https://academy.cgboost.com/p/blender-2-8-launch-pad
 
 ***
+
+
+***
 https://learn.unrealengine.com/course/3750189
 
 ***
@@ -90,3 +93,12 @@ Fixing the Flying Bug* from out last Movement Tutorial | Unity 3D
 https://www.youtube.com/watch?v=ma2O8PyoiN8
 
 Reason:  Not really standalone from previous content.  Not especially high quality tutorial.  Might round up this creator's content into a single channel link for interested parties
+
+
+***
+Ever tried the Masterpiece Studio suite of VR creation tools? The whole suite is now free for non-commercial use! 
+https://masterpiecestudio.com/
+Give it a go from today 🙂 
+Or via Steam: https://store.steampowered.com/app/1694700/Masterpiece_Studio_Pro/
+
+The restrictive license doesnt really make this tool usable for most
